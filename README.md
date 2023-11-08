@@ -1,5 +1,5 @@
 # mymovies
-En caso de que el ejemplo no funcionE por la llave utilizado se tiene que hacer lo siguiente:
+En caso de que el ejemplo no funcione a causa de la llave utilizada se tiene que hacer lo siguiente:
 
 1: INGRESAR A TMDB
 https://www.themoviedb.org/
